@@ -721,3 +721,4 @@ if __name__ == '__main__':
     ui.setupUi(new_rule_wind)
     new_rule_wind.show()
     sys.exit(app.exec_())
+    
