@@ -248,3 +248,4 @@ if __name__ == '__main__':
     ui.setupUi(main_wind)
     main_wind.show()
     sys.exit(app.exec_())
+    
